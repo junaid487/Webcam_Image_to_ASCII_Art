@@ -19,3 +19,5 @@ I started this project today as the first step in a much bigger journey. The pla
 - Image enhancement
 - Performance improvements
 - More rendering styles
+- read from user uploaded image/video
+- Finally, make it a web app and deploy
